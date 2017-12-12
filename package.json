@@ -1,0 +1,14 @@
+{
+  "name": "Polypouic",
+  "version": "0.0.1",
+  "description": "Polypouic Node.js sur Docker",
+  "author": "zyra83 <zyra83@hotmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "3.4.0",
+    "socket.io": "0.9.16"
+  }
+}
